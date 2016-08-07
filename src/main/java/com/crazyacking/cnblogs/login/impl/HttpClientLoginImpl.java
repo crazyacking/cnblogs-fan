@@ -37,7 +37,7 @@ public class HttpClientLoginImpl {
                 new NameValuePair("__VIEWSTATE", "/wEPDwULLTE1MzYzODg2NzZkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQtjaGtSZW1lbWJlcm1QYDyKKI9af4b67Mzq2xFaL9Bt"),
                 new NameValuePair("__EVENTVALIDATION", "/wEdAAUyDI6H/s9f+ZALqNAA4PyUhI6Xi65hwcQ8/QoQCF8JIahXufbhIqPmwKf992GTkd0wq1PKp6+/1yNGng6H71Uxop4oRunf14dz2Zt2+QKDEIYpifFQj3yQiLk3eeHVQqcjiaAP"),
                 new NameValuePair("tbUserName", "crazyacking"),
-                new NameValuePair("tbPassword", "199312181012"),
+                new NameValuePair("tbPassword", "passwd"),
                 new NameValuePair("txtReturnUrl", dataUrl),
                 new NameValuePair("btnLogin", "登  录")
         };

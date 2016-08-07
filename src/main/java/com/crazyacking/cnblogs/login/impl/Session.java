@@ -17,7 +17,7 @@ public class Session {
         connection.setDoOutput(true);
         OutputStreamWriter out = new OutputStreamWriter(connection
                 .getOutputStream());
-        out.write("memberName=crazyacking&password=199312181012");
+        out.write("memberName=crazyacking&password=passwd");
         out.flush();
         out.close();
 
